@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+
+> This is Blog website of Developers Community. Main website: [icpdevelopers.github.io](https://icpdevelopers.github.io/) 
 {: .prompt-tip }
