@@ -31,11 +31,10 @@ Complete beginners are also welcome to apply — all we require is dedication to
 
 To apply, Create an intro page on your GitHub profile that includes:
 
-    A little about yourself
-    Your likes, interests and hobbies
-    What you know: your skills
-    Why you want to join the Developers' Community
-
+- A little about yourself
+- Your likes, interests and hobbies
+- What you know: your skills
+- Why you want to join the Developers' Community
 
 Application Deadline: April 1, 2025 (Tuesday) 11 pm.
 Please do not skip any of the mentioned points, else your application will be considered invalid.
@@ -132,6 +131,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe2bW5RUxGuKmjg04jLi8jwUpPu5nr8R2koeBRs
 Submission Deadline: April 10 (Thursday)
 
 An image has been attached for your reference.
+```
 </details>
 
 ## Progress meeting 
@@ -142,7 +142,7 @@ An image has been attached for your reference.
 - Allows everyone to share their approach
 - Solve problems faced by everyone
 - Everyone gets used to progress meetings 
-```
+
 <details markdown="1">
   <summary>Email Content</summary>
 Developer's Community Weekly Progress Meeting
