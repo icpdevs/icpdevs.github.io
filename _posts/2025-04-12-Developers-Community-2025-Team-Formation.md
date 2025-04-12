@@ -7,7 +7,7 @@ author: prabesh.sapkota.a23
 description: This post aims to serve as a guide/archive for future students interested in continuing the community.
 ---
 
-> When sending mass emails, keep receivers' addresses in BCC and always CC studentservices, respected CEO and community supervisor. But sometimes, for example, when sending selection emails, its better to disclose receivers as it is only for a closed group and everyone can see thier friends in the list which encourages them a bit. Strictly use BCC on rejection and other negative mails.
+> When sending mass emails, keep receivers' addresses in BCC and always CC studentservices, respected CEO and community supervisor. But sometimes, for example, when sending selection emails, its better to disclose receivers as it is only for a closed group and everyone can see their friends in the list which encourages them a bit. Strictly use BCC on rejection and other negative mails.
 {: .prompt-info }
 
 ## Registration Open E-mail
@@ -16,7 +16,7 @@ description: This post aims to serve as a guide/archive for future students inte
 - To: All BIT studetns
 - Google Form Settings: Collect email addresses, Responders: Anyone in ICP
 - Submission Deadline in: 7 days
-- 53 [Responses](https://docs.google.com/spreadsheets/d/1QQXh-nhrDJZgDrGJGiDQR-JfWUegdTMCg1jYa4Q4zIk/view)
+- [53 Responses](https://docs.google.com/spreadsheets/d/1QQXh-nhrDJZgDrGJGiDQR-JfWUegdTMCg1jYa4Q4zIk/view)
 
 <details>
   <summary>Email Content</summary>
@@ -53,6 +53,7 @@ Submit your GitHub username here:  https://forms.gle/tdJGrevtBHgdRzAG7
   <summary>Email Content</summary>
 Action Required: Developers' Community Application Form
 
+```
 Dear applicant,
 We are really happy to see your application for the developer's community. But it was really sad to see that you have not completed the task provided for the registration.
 
@@ -67,8 +68,7 @@ Your intro must have these points:
   - Why you want to join the Developers' Community
 
 Otherwise, we are afraid your application will be considered invalid. The readme file can be updated as much as you want before the deadline. You do not have to re-submit the form. So, we hope you will provide an answer to help us know about you, your reasons and ideas to be in this community.
-
-Thank you. 
+```
 </details>
 
 ## Application Status Email
@@ -81,6 +81,7 @@ Thank you.
   <summary>Approval Email Content</summary>
 🥳 Application Approved - Developers' Community
 
+```
 Hello everyone,
 
 Your application for the Developer Community core team has been approved.
@@ -88,12 +89,13 @@ Your application for the Developer Community core team has been approved.
 We invite you to attend the Community's meeting on April 3rd (Thursday) at 3 PM in Rara Classroom.
 
 We look forward to seeing you there and discuss how the community will move forward. If you can't attend the meeting due to class schedule, please reply to this email and let us know.
-
+```
 </details>
 <details>
   <summary>Rejection Email Content</summary>
 Update on Your Developers' Community Application
 
+```
 Dear applicant,
 
 Thank you for taking the time to apply for the Developers' Community Core Team. We truly appreciate your interest but we regret to inform you that your application has not been selected.
@@ -101,6 +103,7 @@ Thank you for taking the time to apply for the Developers' Community Core Team. 
 However, we encourage you to Join our weekly sessions running every Sunday 3PM to 4PM on Rupa Classroom.
 
 Thank you again for your enthusiasm, and we wish you the best in your coding journey!
+```
 </details>
 
 ## Orientation
@@ -120,6 +123,7 @@ Thank you again for your enthusiasm, and we wish you the best in your coding jou
   <summary>Email Content</summary>
 Developers Community Core Team Selection Task
 
+```
 Hello everyone,
 
 As mentioned in yesterday's meeting, here is the task:
@@ -135,18 +139,20 @@ An image has been attached for your reference.
 > Progress meeting 2-3 days prior to the selection task submission deadline
 
 - Helps students who are stuck. 
-- Allows everyone to share thier approach
+- Allows everyone to share their approach
 - Solve problems faced by everyone
 - Everyone gets used to progress meetings 
-
+```
 <details>
   <summary>Email Content</summary>
 Developer's Community Weekly Progress Meeting
 
+```
 Hello everyone,
 
 How's the seat plan system cooking?
 We will be having an optional weekly progress meeting on April 8, Tuesday 3PM @ Tilicho. Progress meeting is where we share our progress on the project: what we have done and what problem we faced.
 
 You can join the meeting if you want to get ideas on how other developers are solving the tasks. Also, if you are facing any issues, we will try to solve them together in this meeting.
+```
 </details>
