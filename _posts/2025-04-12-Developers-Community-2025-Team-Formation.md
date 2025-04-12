@@ -18,7 +18,7 @@ description: This post aims to serve as a guide/archive for future students inte
 - Submission Deadline in: 7 days
 - [53 Responses](https://docs.google.com/spreadsheets/d/1QQXh-nhrDJZgDrGJGiDQR-JfWUegdTMCg1jYa4Q4zIk/view)
 
-<details>
+<details markdown="1">
   <summary>Email Content</summary>
 
 Registration Open for Developers' Community Core Team
@@ -49,7 +49,7 @@ Submit your GitHub username here:  https://forms.gle/tdJGrevtBHgdRzAG7
 - From: dev@icp.edu.np
 - Sent To: 29 students.
 
-<details>
+<details markdown="1">
   <summary>Email Content</summary>
 Action Required: Developers' Community Application Form
 
@@ -77,7 +77,7 @@ Otherwise, we are afraid your application will be considered invalid. The readme
 - Approval Email Sent To: 40 applicants.
 - Rejection Email Sent To: 13 applicants.
 
-<details>
+<details markdown="1">
   <summary>Approval Email Content</summary>
 🥳 Application Approved - Developers' Community
 
@@ -91,7 +91,7 @@ We invite you to attend the Community's meeting on April 3rd (Thursday) at 3 PM 
 We look forward to seeing you there and discuss how the community will move forward. If you can't attend the meeting due to class schedule, please reply to this email and let us know.
 ```
 </details>
-<details>
+<details markdown="1">
   <summary>Rejection Email Content</summary>
 Update on Your Developers' Community Application
 
@@ -119,7 +119,7 @@ Thank you again for your enthusiasm, and we wish you the best in your coding jou
 - Submission Deadline in: 7 days
 - [20 Responses](https://docs.google.com/spreadsheets/d/1FvK2c2myjo03QqY6rAmJfEHWSOzjUpJIjbpUfeAm9wI/edit?usp=sharing)
 
-<details>
+<details markdown="1">
   <summary>Email Content</summary>
 Developers Community Core Team Selection Task
 
@@ -143,7 +143,7 @@ An image has been attached for your reference.
 - Solve problems faced by everyone
 - Everyone gets used to progress meetings 
 ```
-<details>
+<details markdown="1">
   <summary>Email Content</summary>
 Developer's Community Weekly Progress Meeting
 
