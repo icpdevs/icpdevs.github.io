@@ -41,5 +41,3 @@ description: This post aims to serve as a guide/archive for future students inte
 - Only thing that you can freely decide upon are stickers. Provide BD with sticker files. They will have them printed.
 - The college does allow you to make a video and post it so if you have any ideas or want to make a video yourself ,you can do it (Keep in mind its need to be approved by the bd first.)
 - Now, for the design, your proposal needs to be approved. They suggest a 2 week prior notice for the design request. We send our proposal to the SSD if the SSD approves of it then only will the send the request to BD department which they will send to the KTM design team.
-- Now for these event, I will always prefer you to keep a slack time in between two events. 
-
