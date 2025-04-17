@@ -7,6 +7,38 @@ author: prabesh.sapkota.a23
 description: This post aims to serve as a guide/archive for future students interested in continuing the community.
 ---
 
+## Weekly Developers' Session
+
+We started off with weekly developers' session where each week a stuednt share what little they know about certain topics. For that, we first got [the proposal](https://drive.google.com/file/d/10ibm3R-jSuUXLpxvmpz_sCSL17XB4lDU/view?usp=sharing) approved. We later added dev@ email in requirements to the proposal and got it signed by ceo sir. Then sent an email from student services to all BIT students:
+
+<details markdown="1">
+  <summary>Email Content</summary>
+Weekly Developers' Community Session
+
+```
+Dear Students,
+
+We are excited to announce that the Developers' Community is organizing a weekly session where you can learn various coding practices and necessary skills. This session aims to bridge the gap between your syllabus and career as a developer.
+
+Session Details:
+- Schedule: Every Sunday, 3 PM to 4 PM
+- Location: Rupa (Nepal Block)
+
+For further communication, join us on discord: https://discord.gg/7HpJhBjaMH
+```
+</details>
+
+We asked friends, seniors and juniors for an hour-long session which introduces attendees about a technology and at the end of session, everyone follws presentor have some output in hand. The aim is to expose attendees to different tech stacks so they can choose one they like and also have an community to ask if they got stuck while learning.
+
+> After each session, it is required to email a session report to Abhinav Dahal sir and teacher cordinator of the community.
+{: .prompt-info }
+
+Session Topics included:
+- Getting your own domain (yourname.com.np) and hosting a website for free on infinityfree.com
+- UI/UX: Figma Basics
+- Creating a Dynamic Website with #Django. Part-1: Frontend
+- Django Basics.
+
 > When sending mass emails, keep receivers' addresses in BCC and always CC studentservices, respected CEO and community supervisor. But sometimes, for example, when sending selection emails, its better to disclose receivers as it is only for a closed group and everyone can see their friends in the list which encourages them a bit. Strictly use BCC on rejection and other negative mails.
 {: .prompt-info }
 
@@ -157,11 +189,11 @@ You can join the meeting if you want to get ideas on how other developers are so
 ```
 </details>
 
-## Host everyone's submissions
+## Host submissions
 
 _Added the 20 submissions to our [projects repo](https://github.com/icpdevelopers/projects) and made them browsable with [directory listing](https://icpdevelopers.github.io/projects/tree/2025/seat-plan-submissions/)_ 
 
-## Pick 6 submissions for core team
+## Pick core team members
 
 We cannot have all of 20 in core team. The core team needs to be small and active to maintain speed and efficiency. Hence, based on potential contribution from each member, a core team of 6 is selected.
 
