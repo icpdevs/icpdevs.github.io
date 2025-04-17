@@ -156,3 +156,14 @@ We will be having an optional weekly progress meeting on April 8, Tuesday 3PM @ 
 You can join the meeting if you want to get ideas on how other developers are solving the tasks. Also, if you are facing any issues, we will try to solve them together in this meeting.
 ```
 </details>
+
+## Host everyone's submissions
+
+_Added the 20 submissions to our [projects repo](https://github.com/icpdevelopers/projects) and made them browsable with [directory listing](https://icpdevelopers.github.io/projects/tree/2025/seat-plan-submissions/)_ 
+
+## Pick 6 submissions for core team
+
+We cannot have all of 20 in core team. The core team needs to be small and active to maintain speed and efficiency. Hence, based on potential contribution from each member, a core team of 6 is selected.
+
+> At this point, we have multiple groups: general members (those who submitted the community registration task), core team candidates (those who submitted core team selection task) and the core team members (whose submission got selected). The path for core team is pretty clear i.e. build projects. But the path for other groups is yet to be decided on.  
+{: .prompt-info }
