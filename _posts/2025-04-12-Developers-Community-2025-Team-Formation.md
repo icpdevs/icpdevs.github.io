@@ -135,7 +135,7 @@ Thank you again for your enthusiasm, and we wish you the best in your coding jou
 ```
 </details>
 
-> When sending mass emails, keep receivers' addresses in BCC and always CC studentservices, respected CEO and community supervisor. But sometimes, for example, when sending selection emails, its better to disclose receivers as it is only for a closed group and everyone can see their friends in the list which encourages them a bit. Strictly use BCC on rejection and other negative mails.
+> When sending mass emails, keep receivers' addresses in BCC. But sometimes, for example, when sending selection emails, its better to disclose receivers as it is only for a closed group and everyone can see their friends in the list which encourages them a bit. Strictly use BCC on rejection and other negative mails.
 {: .prompt-info }
 
 ## Orientation
