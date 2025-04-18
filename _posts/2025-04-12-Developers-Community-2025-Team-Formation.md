@@ -28,9 +28,10 @@ For further communication, join us on discord: https://discord.gg/7HpJhBjaMH
 ```
 </details>
 
+
 We asked friends, seniors and juniors for an hour-long session which introduces attendees about a technology and at the end of session, everyone follws presentor have some output in hand. The aim is to expose attendees to different tech stacks so they can choose one they like and also have an community to ask if they got stuck while learning.
 
-> After each session, it is required to email a session report to Abhinav Dahal sir and teacher cordinator of the community.
+> After each session, it is required to email a session report to the community's teacher cordinator. While sending mails from dev@icp.edu.np, its mandatory to keep student services and abhinav dahal sir and mention sender's name and year in regards.
 {: .prompt-info }
 
 Session Topics included:
@@ -38,9 +39,6 @@ Session Topics included:
 - UI/UX: Figma Basics
 - Creating a Dynamic Website with #Django. Part-1: Frontend
 - Django Basics.
-
-> When sending mass emails, keep receivers' addresses in BCC and always CC studentservices, respected CEO and community supervisor. But sometimes, for example, when sending selection emails, its better to disclose receivers as it is only for a closed group and everyone can see their friends in the list which encourages them a bit. Strictly use BCC on rejection and other negative mails.
-{: .prompt-info }
 
 ## Registration Open E-mail
 
@@ -137,6 +135,9 @@ Thank you again for your enthusiasm, and we wish you the best in your coding jou
 ```
 </details>
 
+> When sending mass emails, keep receivers' addresses in BCC and always CC studentservices, respected CEO and community supervisor. But sometimes, for example, when sending selection emails, its better to disclose receivers as it is only for a closed group and everyone can see their friends in the list which encourages them a bit. Strictly use BCC on rejection and other negative mails.
+{: .prompt-info }
+
 ## Orientation
 - Welcome to the cmmunity
 - About community, how it works.
@@ -148,7 +149,6 @@ Thank you again for your enthusiasm, and we wish you the best in your coding jou
 - From: dev@icp.edu.np
 - To: 40 members
 - Submission Deadline in: 7 days
-- [20 Responses](https://docs.google.com/spreadsheets/d/1FvK2c2myjo03QqY6rAmJfEHWSOzjUpJIjbpUfeAm9wI/edit?usp=sharing)
 
 <details markdown="1">
   <summary>Email Content</summary>
@@ -191,7 +191,7 @@ You can join the meeting if you want to get ideas on how other developers are so
 
 ## Host submissions
 
-_Added the 20 submissions to our [projects repo](https://github.com/icpdevelopers/projects) and made them browsable with [directory listing](https://icpdevelopers.github.io/projects/tree/2025/seat-plan-submissions/)_ 
+_Added the [20 submissions](https://docs.google.com/spreadsheets/d/1FvK2c2myjo03QqY6rAmJfEHWSOzjUpJIjbpUfeAm9wI/edit?usp=sharing) to our [projects repo](https://github.com/icpdevelopers/projects) and made them browsable with [directory listing](https://icpdevelopers.github.io/projects/tree/2025/seat-plan-submissions/)_ 
 
 ## Pick core team members
 
