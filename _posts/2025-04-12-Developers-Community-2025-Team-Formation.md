@@ -28,7 +28,7 @@ For further communication, join us on discord: https://discord.gg/7HpJhBjaMH
 ```
 </details>
 
-
+<br>
 We asked friends, seniors and juniors for an hour-long session which introduces attendees about a technology and at the end of session, everyone follws presentor have some output in hand. The aim is to expose attendees to different tech stacks so they can choose one they like and also have an community to ask if they got stuck while learning.
 
 > After each session, it is required to email a session report to the community's teacher cordinator. While sending mails from dev@icp.edu.np, its mandatory to keep student services and abhinav dahal sir and mention sender's name and year in regards.
