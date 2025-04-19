@@ -9,7 +9,7 @@ description: This post aims to serve as a guide/archive for future students inte
 
 ## Weekly Developers' Session
 
-We started off with weekly developers' session where each week a stuednt share what little they know about certain topics. For that, we first got [the proposal](https://drive.google.com/file/d/10ibm3R-jSuUXLpxvmpz_sCSL17XB4lDU/view?usp=sharing) approved. We later added dev@ email in requirements to the proposal and got it signed by ceo sir. Then sent an email from student services to all BIT students:
+We started off with weekly developers' session where each week a stuednt share what little they know about certain topics. For that, we first got [the proposal](https://drive.google.com/file/d/1khH80U209lQnM5zbZu9v4mfXUieqlPkr/view?usp=sharing) approved. We later added dev@ email in requirements to the proposal and got it signed by ceo sir. Then sent an email from student services to all BIT students:
 
 <details markdown="1">
   <summary>Email Content</summary>
@@ -31,7 +31,7 @@ For further communication, join us on discord: https://discord.gg/7HpJhBjaMH
 <br>
 We asked friends, seniors and juniors for an hour-long session which introduces attendees about a technology and at the end of session, everyone follws presentor have some output in hand. The aim is to expose attendees to different tech stacks so they can choose one they like and also have an community to ask if they got stuck while learning.
 
-> After each session, it is required to email a session report to the community's teacher cordinator. While sending mails from dev@icp.edu.np, its mandatory to keep student services and abhinav dahal sir and mention sender's name and year in regards.
+> After each session, it is required to email a session report to the community's supervisor. While sending mails from dev@icp.edu.np, its mandatory to keep student services and abhinav dahal sir and mention sender's name and year in regards.
 {: .prompt-info }
 
 Session Topics included:
